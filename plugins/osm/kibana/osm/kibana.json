@@ -1,0 +1,11 @@
+{
+  "id": "osm",
+  "version": "7.12.0",
+  "kibanaVersion": "",
+  "server": true,
+  "ui": true,
+  "requiredPlugins": [
+    "navigation"
+  ],
+  "optionalPlugins": []
+}
